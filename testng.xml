@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/home/knoldus/IdeaProjects/SeleniumKekaAssignment/src/test/java/kekaAssignmentstart"><classes><class name="kekaAssignmentstart.TestKeka"><methods><include name="testParameterWithXML"/></methods></class></classes></test></suite>
